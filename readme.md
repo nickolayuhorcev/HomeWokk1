@@ -1,3 +1,3 @@
 # git and github
 
-gffffff
+Изучаем Git
