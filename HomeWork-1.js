@@ -1,9 +1,8 @@
 // ДЗ-1. Задание 1.
 
-let tempCels = parseInt("100Grad");
-let tempForeng = (9 / 5) * tempCels + 32;
-console.log(tempForeng);
-document.write(tempForeng);
+let Tc = parseInt("100Grad");
+let Tf = (9 / 5) * Tc + 32;
+console.log(Tf);
 
 
 // ДЗ-1. Задание 2.
