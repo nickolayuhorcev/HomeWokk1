@@ -3,6 +3,7 @@
 let tempCels = parseInt("100Grad");
 let tempForeng = (9 / 5) * tempCels + 32;
 console.log(tempForeng);
+document.write(tempForeng);
 
 
 // ДЗ-1. Задание 2.
