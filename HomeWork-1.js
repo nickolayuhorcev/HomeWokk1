@@ -9,9 +9,9 @@ console.log(Tf);
 //Имя переменной name в VS Code перечеркнуто, поэтому использовал другое имя
 
 
-let userName = 'Василий';
+let user = 'Василий';
 let admin;
-admin = userName;
+admin = user;
 console.log(admin);
 
 // ДЗ-1. Задание 3.
